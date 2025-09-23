@@ -16,7 +16,7 @@ Sample Python project for learning GitHub workflow
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/project-sample.git
+   git clone https://github.com/AnuragDixitRaipur>/project-sample.git
 
 
 
